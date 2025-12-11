@@ -169,3 +169,61 @@ body {
   opacity: 0.85;
   margin-top: 12px;
 }
+
+.packs {
+  display: flex;
+  gap: 30px;
+  padding: 40px 80px;
+  flex-wrap: wrap;
+}
+
+.pack-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 12px;
+  width: 300px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  text-align: center;
+  transition: 0.3s;
+}
+
+.pack-card:hover {
+  transform: translateY(-6px);
+  border-color: #fff;
+  box-shadow: 0 0 12px #ffffff55;
+}
+
+.pack-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.pack-card h3 {
+  color: #fff;
+  text-shadow: 0 0 10px #ffffff;
+  margin-bottom: 8px;
+}
+
+.pack-card p {
+  opacity: 0.7;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #fff;
+  color: #000;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  background: #e1e1e1;
+}
+
