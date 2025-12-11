@@ -8,18 +8,22 @@
 </head>
 <body>
 
+<!-- SIDEBAR -->
 <div class="sidebar" id="sidebar">
 
+  <!-- LOGO -->
   <div class="logo-container">
     <img src="Assets/logo.png" alt="Lyoq Labs Logo" class="sidebar-logo">
   </div>
 
+  <!-- NAVIGATION -->
   <nav class="nav-links">
     <a href="#">Home</a>
-    <a href="#">Minecraft texturepacks</a>
+    <a href="#">Minecraft Texturepacks</a>
     <a href="#">Contact</a>
   </nav>
 
+  <!-- SOCIALS -->
   <div class="socials">
     <a href="https://discord.com" target="_blank">
       <svg width="28" height="28" viewBox="0 0 24 24" fill="#fff">
@@ -30,39 +34,52 @@
   </div>
 </div>
 
+<!-- TOGGLE BUTTON -->
 <button id="toggle-btn">☰</button>
 
+<!-- CONTENT -->
 <div class="content">
   <canvas id="bg-canvas"></canvas>
 
   <section class="hero">
-    <h1>Welcome to Lyoq Labs - Minecraft Texturepacks</h1>
-
-    <p>Rn this is only a test.<br>
-      <strong>lyoqlabs.github.io/(username)</strong>.
-    </p>
+    <h1>Welcome to Lyoq Labs</h1>
 
     <p>
-      If you're interested or have questions, join our Discord or use our contact page.
+      Custom Minecraft texturepacks, tools and small projects — all in one place.
     </p>
 
-    <p>
-      We also build small extra tools and features — feel free to explore!
-    </p>
-
-    <h2>Upcoming Feature: User Search System</h2>
-
-    <p>
-      Soon you will be able to search for users directly from the top bar.<br>
-      If a name doesn’t exist, you will see:<br>
-      <strong>Available</strong>, <strong>Name Not Found</strong>, <strong>Banned</strong>, or <strong>For Sale</strong>.
-    </p>
+    <h2>Featured Texturepacks</h2>
   </section>
 
-  <div style="height:300px;"></div>
+  <!-- TEXTUREPACK CARDS -->
+  <section class="packs">
+
+    <div class="pack-card">
+      <img src="https://via.placeholder.com/300x150?text=Texturepack+1" alt="Texturepack 1">
+      <h3>Texturepack #1</h3>
+      <p>Short description for the first pack placeholder.</p>
+      <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="pack-card">
+      <img src="https://via.placeholder.com/300x150?text=Texturepack+2" alt="Texturepack 2">
+      <h3>Texturepack #2</h3>
+      <p>Another placeholder texturepack preview.</p>
+      <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="pack-card">
+      <img src="https://via.placeholder.com/300x150?text=Texturepack+3" alt="Texturepack 3">
+      <h3>Texturepack #3</h3>
+      <p>A third sample texturepack slot.</p>
+      <a href="#" class="download-btn">Download</a>
+    </div>
+
+  </section>
+
+  <div style="height:200px;"></div>
 </div>
 
 <script src="script.js"></script>
 </body>
 </html>
-
