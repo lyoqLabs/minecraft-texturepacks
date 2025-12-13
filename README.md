@@ -10,8 +10,8 @@
 > If you Dont Have Already Java or Bedrock Edition for The Pc, Buy it From [Instant Gaming](https://www.instant-gaming.com).
 > **Why Instant Gaming you may Ask?**
 > Instant Gaming is Very cheap And **MOSTLY** Legal.
-> [Direct Link To Java And Bedrock Edtion for PC](https://www.instant-gaming.com/de/442-kaufen-minecraft-java-bedrock-edition-java-bedrock-edition-pc-spiel/)
-> If this Link Doesnt Work in your Region, [Visist Instant Gaming](https://www.instant-gaming.com) And Search for Minecraft. 
+> [Direct Link To Java And Bedrock Edtion for PC (Not recommended for countries other than Germany)](https://www.instant-gaming.com/de/442-kaufen-minecraft-java-bedrock-edition-java-bedrock-edition-pc-spiel/)
+> If this Link Doesnt Work in your Region or you not on germany, [Visist Instant Gaming](https://www.instant-gaming.com) And Search for Minecraft. 
 
 > [!CAUTION]
 > Make sure you buy the right game in **YOUR REGION**.
