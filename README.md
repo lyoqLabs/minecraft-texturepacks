@@ -1,26 +1,26 @@
 ## 🏜️ texture packs - lyoq labs.
 > [!IMPORTANT]
-> Most Texture packs are for [Minecraft Java](https://minecraft.wiki/w/Java_Edition).
-> Our Texture packs are Markt with `Java` or `Bedrock`.
+> Most texture packs are for [Minecraft Java](https://minecraft.wiki/w/Java_Edition).
+> Our texture packs are marked with `Java` or `Bedrock`.
 > `Java` -> [Java Edition](https://minecraft.wiki/w/Java_Edition) `Bedrock` -> [Bedrock Edition](https://minecraft.wiki/w/Bedrock_Edition)
-> Also make sure That you **HAVE** A Pc. Cuz you cant Put Any Texture packs on Bedrock Edition on **CONSOLE**
+> Also make sure that you **HAVE** a PC, because you can’t put any texture packs on Bedrock Edition on **CONSOLE**.
 
 ---
 ## 📰 Legal buy
-> If you Dont Have Already Java or Bedrock Edition for The Pc, Buy it From [Instant Gaming](https://www.instant-gaming.com).
-> **Why Instant Gaming you may Ask?**
-> Instant Gaming is Very cheap And **MOSTLY** Legal.
-> [Direct Link To Java And Bedrock Edtion for PC (Not recommended for countries other than Germany)](https://www.instant-gaming.com/de/442-kaufen-minecraft-java-bedrock-edition-java-bedrock-edition-pc-spiel/)
-> If this Link Doesnt Work in your Region or you not on germany, [Visist Instant Gaming](https://www.instant-gaming.com) And Search for Minecraft. 
+> If you don’t already have Java or Bedrock Edition for PC, buy it from [Instant Gaming](https://www.instant-gaming.com).
+> **Why Instant Gaming, you may ask?**
+> Instant Gaming is very cheap and **MOSTLY** legal.
+> [Direct link to Java and Bedrock Edition for PC (Not recommended for countries other than Germany)](https://www.instant-gaming.com/de/442-kaufen-minecraft-java-bedrock-edition-java-bedrock-edition-pc-spiel/)
+> If this link doesn’t work in your region or you are not in Germany, [visit Instant Gaming](https://www.instant-gaming.com) and search for Minecraft. 
 
 > [!CAUTION]
 > Make sure you buy the right game in **YOUR REGION**.
 
 ---
 ## ⁉️ Other
-If you want play on 1.8.9 for PvP
-> Recommended Launchers: [LabyMod](https://www.labymod.net) or [Feather Client](https://feathermc.com/)
-> Also make sure to Join The Right Discords. But Mostly There Discord Servers Are on The Website.
+If you want to play on 1.8.9 for PvP
+> Recommended launchers: [LabyMod](https://www.labymod.net) or [Feather Client](https://feathermc.com/)
+> Also make sure to join the right Discords. But mostly their Discord servers are on the website.
 
 ---
 ## ❓ TUTORIALS
@@ -32,12 +32,12 @@ If you want play on 1.8.9 for PvP
 > [LabyMod](https://www.labymod.net).
 > [Feather Client](https://feathermc.com/).
 > [Instant Gaming](https://www.instant-gaming.com).
-> [Our Own Website, Direkt to The Texture Packs.](https://lyoqlabs.github.io/minecraft-texturepacks).
+> [Our own website, direct to the texture packs.](https://lyoqlabs.github.io/minecraft-texturepacks).
 
 ---
 ## 📢 Ads
 > [!IMPORTANT]
-> lyoq labs is not an partner of [Minecraft](https://minecraft.net), [Instant Gaming](https://www.instant-gaming.com) [LabyMod](https://www.labymod.net) Or [Feather Client](https://feathermc.com/).
+> lyoq labs is not a partner of [Minecraft](https://minecraft.net), [Instant Gaming](https://www.instant-gaming.com), [LabyMod](https://www.labymod.net), or [Feather Client](https://feathermc.com/).
 > This repository is not a **paid partnership**.
 > Lyoq Labs only provides ads as recommendations.
 
@@ -48,15 +48,15 @@ If you want play on 1.8.9 for PvP
 
 ---
 ## 👥 Credits
-Credits to the Owner and founder **lyoq**
-lyoq is creating this website on his own
-if you want to join our team add lyoq on Discord.
+Credits to the owner and founder **lyoq**  
+lyoq is creating this website on his own  
+If you want to join our team, add lyoq on Discord.
 
 **Discord: @.lyoq** 
 > [!IMPORTANT]
 > `.lyoq` with the **dot**.
->  If you add the person without a dot, it won't be the right person.
-> Also lyoqs Discord ID is `1435071462087327785` A user cant have 2 ID´s. So make sure dont get scammed!
+> If you add the person without a dot, it won’t be the right person.
+> Also, lyoq’s Discord ID is `1435071462087327785`. A user can’t have two IDs, so make sure you don’t get scammed!
 
 ---
 
@@ -67,4 +67,4 @@ if you want to join our team add lyoq on Discord.
 ███████╗░░░██║░░░╚█████╔╝░╚═██╔═╝░  ███████╗██║░░██║██████╦╝██████╔╝
 ╚══════╝░░░╚═╝░░░░╚════╝░░░░╚═╝░░░  ╚══════╝╚═╝░░╚═╝╚═════╝░╚═════╝░
 
-© 2025 lyoq.github.io - All Rights Reserved. 
+© 2025 lyoq.github.io - All Rights Reserved.
