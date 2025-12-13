@@ -13,6 +13,9 @@
 > [Direct Link To Java And Bedrock Edtion for PC](https://www.instant-gaming.com/de/442-kaufen-minecraft-java-bedrock-edition-java-bedrock-edition-pc-spiel/)
 > If this Link Doesnt Work in your Region, [Visist Instant Gaming](https://www.instant-gaming.com) And Search for Minecraft. 
 
+> [!CAUTION]
+> Make sure you buy the right game in **YOUR REGION**.
+
 ---
 ## 📢 Ads
 > [!IMPORTANT]
