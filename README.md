@@ -17,18 +17,26 @@
 > Make sure you buy the right game in **YOUR REGION**.
 
 ---
-## 📢 Ads
-> [!IMPORTANT]
-> lyoq labs is not an partner of [Minecraft](https://minecraft.net) Or [Instant Gaming](https://www.instant-gaming.com)
-> This repository is not a **paid partnership**.
-> Lyoq Labs only provides ads as recommendations.
-
----
+## ⁉️ Other
+If you want play on 1.8.9 for PvP
+> Recommended Launchers: `LabyMod Launcher` `Feather Client`
+> [LabyMod](https://www.labymod.net/en/download)
+> [Feather Client](https://feathermc.com/)
+> Also make sure to Join The Right Discords. But Mostly There Discord Servers Are on The Website.
 
 ## 🔗 Links
 > [Minecraft](https://minecraft.net).
+> [LabyMod](https://www.labymod.net).
+> [Feather Client](https://feathermc.com/).
 > [Instant Gaming](https://www.instant-gaming.com).
-> [Our Own Website. Direkt to The Texture Packs](https://lyoqlabs.github.io/minecraft-texturepacks)
+> [Our Own Website, Direkt to The Texture Packs.](https://lyoqlabs.github.io/minecraft-texturepacks).
+
+---
+## 📢 Ads
+> [!IMPORTANT]
+> lyoq labs is not an partner of [Minecraft](https://minecraft.net), [Instant Gaming](https://www.instant-gaming.com) [LabyMod](https://www.labymod.net) Or [Feather Client](https://feathermc.com/).
+> This repository is not a **paid partnership**.
+> Lyoq Labs only provides ads as recommendations.
 
 ---
 ## 📬 Contact
