@@ -19,11 +19,14 @@
 ---
 ## ⁉️ Other
 If you want play on 1.8.9 for PvP
-> Recommended Launchers: `LabyMod Launcher` `Feather Client`
-> [LabyMod](https://www.labymod.net/en/download)
-> [Feather Client](https://feathermc.com/)
+> Recommended Launchers: [LabyMod](https://www.labymod.net) or [Feather Client](https://feathermc.com/)
 > Also make sure to Join The Right Discords. But Mostly There Discord Servers Are on The Website.
 
+---
+## ❓ TUTORIALS
+> [Texture Packs for Bedrock Tutorial](https://www.youtube.com/watch?v=8ItwVPqOUOw)
+
+---
 ## 🔗 Links
 > [Minecraft](https://minecraft.net).
 > [LabyMod](https://www.labymod.net).
