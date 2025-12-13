@@ -1,7 +1,7 @@
 ## 🏜️ texture packs - lyoq labs.
 > [!IMPORTANT]
 > Most Texture packs are for [Minecraft Java](https://minecraft.wiki/w/Java_Edition).
-> Texture packs are Markt with `Java` or `Bedrock`.
+> Our Texture packs are Markt with `Java` or `Bedrock`.
 > `Java` -> [Java Edition](https://minecraft.wiki/w/Java_Edition) `Bedrock` -> [Bedrock Edition](https://minecraft.wiki/w/Bedrock_Edition)
 > Also make sure That you **HAVE** A Pc. Cuz you cant Put Any Texture packs on Bedrock Edition on **CONSOLE**
 
